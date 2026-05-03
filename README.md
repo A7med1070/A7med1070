@@ -102,8 +102,8 @@ Firestore • Cloud Messaging • Supabase
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=menna3lwan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=menna3lwan&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=A7med1070&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A7med1070&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -111,7 +111,7 @@ Firestore • Cloud Messaging • Supabase
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=menna3lwan&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A7med1070&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -129,15 +129,15 @@ Firestore • Cloud Messaging • Supabase
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/menna-elwan/">
+<a href="https://www.linkedin.com/in/ahmed-elsayed-1153bb31b">
 <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:menna3lwan@gmail.com">
+<a href="asdahmed1884@gmail.com">
 <img src="https://img.shields.io/badge/Email-2ac3de?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/menna3lwan">
+<a href="https://github.com/A7med1070">
 <img src="https://img.shields.io/badge/GitHub-1f2335?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
